@@ -40,6 +40,17 @@ The dataset (`covid_19_clean_complete.csv`) contains daily cumulative COVID-19 r
 - Recovery and death rates varied independently of total case volume, suggesting healthcare capacity and response timing mattered as much as case volume itself.
 - WHO regions differed significantly in total case burden, reflecting disparities in population density and healthcare infrastructure.
 
+## Visualizations
+
+### Global Trend of Confirmed Cases
+![Global Trend](images/global_trend.png)
+
+### Top 10 Countries by Cases per Million
+![Per Capita Cases](images/per_capita_cases.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
 ## Limitations
 
 - Death and recovery rates are derived from a single end-of-period snapshot rather than adjusted for reporting lag, so they approximate rather than precisely measure case-fatality/recovery rates.
