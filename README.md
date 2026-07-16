@@ -43,10 +43,10 @@ The dataset (`covid_19_clean_complete.csv`) contains daily cumulative COVID-19 r
 ## Visualizations
 
 ### Global Trend of Confirmed Cases
-![Global Trend](images/global_trend.png)
+![Global Trend](images/confirmed_trend.png)
 
 ### Top 10 Countries by Cases per Million
-![Per Capita Cases](images/per_capita_cases.png)
+![Per Capita Cases](images/recovery_rate.png)
 
 ### Correlation Heatmap
 ![Correlation Heatmap](images/correlation_heatmap.png)
